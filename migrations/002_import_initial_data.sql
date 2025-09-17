@@ -1,0 +1,2 @@
+-- Import initial oncall schedule data
+-- This migration previously imported initial data, but data seeding has been moved to seed-data/

@@ -1,0 +1,156 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Schedule Generation (Characterization Tests) > runScheduleGeneration > should capture current generation algorithm behavior in snapshot > generation-algorithm-baseline 1`] = `
+[
+  {
+    "date": "2025-07-28",
+    "engineer_email": "dave.cowart@company.com",
+    "rotation": "AM",
+  },
+  {
+    "date": "2025-07-28",
+    "engineer_email": "alex@company.com",
+    "rotation": "Core",
+  },
+  {
+    "date": "2025-07-28",
+    "engineer_email": "eng.02@company.com",
+    "rotation": "PM",
+  },
+  {
+    "date": "2025-07-29",
+    "engineer_email": "dave.cowart@company.com",
+    "rotation": "AM",
+  },
+  {
+    "date": "2025-07-29",
+    "engineer_email": "alex@company.com",
+    "rotation": "Core",
+  },
+  {
+    "date": "2025-07-29",
+    "engineer_email": "eng.02@company.com",
+    "rotation": "PM",
+  },
+  {
+    "date": "2025-07-30",
+    "engineer_email": "dave.cowart@company.com",
+    "rotation": "AM",
+  },
+  {
+    "date": "2025-07-30",
+    "engineer_email": "alex@company.com",
+    "rotation": "Core",
+  },
+  {
+    "date": "2025-07-30",
+    "engineer_email": "eng.02@company.com",
+    "rotation": "PM",
+  },
+  {
+    "date": "2025-07-31",
+    "engineer_email": "dave.cowart@company.com",
+    "rotation": "AM",
+  },
+  {
+    "date": "2025-07-31",
+    "engineer_email": "alex@company.com",
+    "rotation": "Core",
+  },
+  {
+    "date": "2025-07-31",
+    "engineer_email": "eng.02@company.com",
+    "rotation": "PM",
+  },
+  {
+    "date": "2025-08-01",
+    "engineer_email": "dave.cowart@company.com",
+    "rotation": "AM",
+  },
+  {
+    "date": "2025-08-01",
+    "engineer_email": "alex@company.com",
+    "rotation": "Core",
+  },
+  {
+    "date": "2025-08-01",
+    "engineer_email": "eng.02@company.com",
+    "rotation": "PM",
+  },
+  {
+    "date": "2025-08-04",
+    "engineer_email": "jeffrey@company.com",
+    "rotation": "AM",
+  },
+  {
+    "date": "2025-08-04",
+    "engineer_email": "jason@company.com",
+    "rotation": "Core",
+  },
+  {
+    "date": "2025-08-04",
+    "engineer_email": "frances.jurek@company.com",
+    "rotation": "PM",
+  },
+  {
+    "date": "2025-08-05",
+    "engineer_email": "jeffrey@company.com",
+    "rotation": "AM",
+  },
+  {
+    "date": "2025-08-05",
+    "engineer_email": "jason@company.com",
+    "rotation": "Core",
+  },
+  {
+    "date": "2025-08-05",
+    "engineer_email": "frances.jurek@company.com",
+    "rotation": "PM",
+  },
+  {
+    "date": "2025-08-06",
+    "engineer_email": "jeffrey@company.com",
+    "rotation": "AM",
+  },
+  {
+    "date": "2025-08-06",
+    "engineer_email": "jason@company.com",
+    "rotation": "Core",
+  },
+  {
+    "date": "2025-08-06",
+    "engineer_email": "frances.jurek@company.com",
+    "rotation": "PM",
+  },
+  {
+    "date": "2025-08-07",
+    "engineer_email": "jeffrey@company.com",
+    "rotation": "AM",
+  },
+  {
+    "date": "2025-08-07",
+    "engineer_email": "jason@company.com",
+    "rotation": "Core",
+  },
+  {
+    "date": "2025-08-07",
+    "engineer_email": "frances.jurek@company.com",
+    "rotation": "PM",
+  },
+  {
+    "date": "2025-08-08",
+    "engineer_email": "jeffrey@company.com",
+    "rotation": "AM",
+  },
+  {
+    "date": "2025-08-08",
+    "engineer_email": "jason@company.com",
+    "rotation": "Core",
+  },
+  {
+    "date": "2025-08-08",
+    "engineer_email": "frances.jurek@company.com",
+    "rotation": "PM",
+  },
+]
+`;

@@ -1,0 +1,11 @@
+pre-commit:
+  parallel: true
+  commands:
+    lint:
+      run: pnpm run lint {staged_files}
+      glob: 'src/**/*.{ts,js,tsx,jsx}'
+      stage_fixed: true
+    format:
+      run: pnpm run format:lefthook {staged_files}
+      glob: '*.{ts,js,tsx,jsx,json,md,yml,yaml}'
+      stage_fixed: true

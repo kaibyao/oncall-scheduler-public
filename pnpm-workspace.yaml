@@ -1,0 +1,11 @@
+onlyBuiltDependencies:
+  - '@datadog/native-appsec'
+  - '@datadog/native-iast-taint-tracking'
+  - '@datadog/native-metrics'
+  - '@datadog/pprof'
+  - aws-lambda-ric
+  - better-sqlite3
+  - dd-trace
+  - esbuild
+  - lefthook
+  - protobufjs
