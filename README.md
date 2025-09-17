@@ -2,7 +2,9 @@
 
 An on-call scheduler that generates optimized on-call schedules using a smart round-robin algorithm. The system balances fairness, workload distribution, and operational constraints across three rotation types (AM, Core, PM) for Ghost engineering teams.
 
-This was a hack-week (that took a month because AWS configuration) project that allowed us to replace incident.io/google sheets/other 3rd party vendors subscriptions that we had.
+This was a hack-week (that took a month because AWS configuration) project that allowed us to replace incident.io/google sheets/other 3rd party vendor subscriptions that we had.
+
+Because this was built for a specific organization that I was part of and is meant to sync with the systems we used (google calendar, slack, notion), I don't expect this to work out of the box for everyone without some work.
 
 ## Overview
 
