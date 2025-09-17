@@ -1,6 +1,6 @@
 # Who-You-Gonna-Call
 
-An on-call scheduler that generates optimized on-call schedules using a smart round-robin algorithm. The system balances fairness, workload distribution, and operational constraints across three rotation types (AM, Core, PM) for Ghost engineering teams.
+An on-call scheduler that generates optimized on-call schedules using a smart round-robin algorithm. The system balances fairness, workload distribution, and operational constraints across three rotation types (AM, Core, PM) for engineering teams.
 
 This was a hack-week (that took a month because AWS configuration) project that allowed us to replace incident.io/google sheets/other 3rd party vendor subscriptions that we had.
 
